@@ -16,7 +16,10 @@
 //mod vetores;
 //mod loops;
 //mod funcoes;
-mod structs;
+//mod structs;
+//mod enums;
+
+//mod argumentos_linha_de_comando; 
 
 //importa a função do arquivo diretamente
 //use saida::run;
@@ -39,6 +42,10 @@ fn main() {
     println!("função soma retorno: {}", s);
     */
 
-    structs::run();
+    //structs::run();
+
+    //enums::run();
+
+    //argumentos_linha_de_comando::run();
 
 }
